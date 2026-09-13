@@ -240,4 +240,4 @@ This repository serves as the official landing page for Among Us 3D. The softwar
 **Get the most recent version of Among Us 3D today!**
 
 ---
-**Last updated:** 2026-09-13 13:08:47 UTC
+**Last updated:** 2026-09-13 17:12:02 UTC
